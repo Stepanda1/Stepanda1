@@ -2,7 +2,7 @@
 
 Computer Science student at HSE Perm and software engineer focused on backend systems, mobile apps, and AI-assisted developer tooling.
 
-I like building practical products end to end: from domain logic and APIs to a runnable interface, tests, and deployment notes. My strongest areas are C#, .NET, Python, Kotlin, SQL, and clean project structure.
+I like building practical products end to end: from domain logic and APIs to a runnable interface, tests, and deployment notes. My strongest areas are C#, .NET, Python, SQL, and clean project structure.
 
 ### What I work on
 
