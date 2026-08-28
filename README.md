@@ -34,6 +34,6 @@ Competitive programming and university coursework archive. Kept as a learning hi
 ### Contact
 
 - GitHub: [Stepanda1](https://github.com/Stepanda1)
-- LinkedIn: add your profile link here
+- LinkedIn:
 - Email: stepanda3@yandex.ru
 
