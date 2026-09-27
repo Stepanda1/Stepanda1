@@ -1,29 +1,21 @@
-## Hi, I'm Stepan
-Computer Science student at HSE Perm and software engineer focused on backend systems, mobile apps, and AI-assisted developer tooling.
+# Hi, I'm Stepan
 
-I like building practical products end to end: from domain logic and APIs to a runnable interface, tests, and deployment notes. My strongest areas are C#, .NET, Python, SQL, and clean project structure.
+Backend developer and 3rd-year Computer Science student at HSE University — Perm.
 
-### What I work on
-- Backend services with ASP.NET Core, REST APIs, SQLite/PostgreSQL, authentication, and reporting.
-- Android and cross-platform applications with Kotlin, Jetpack Compose, and product-oriented UI.
-- AI reliability experiments: evaluating agent workflows, test automation, and reproducible engineering setups.
-- Algorithms and competitive programming practice, including ICPC-style problem solving.
+I worked at T1 on a brokerage services project with Java, PostgreSQL, Redis and Docker. My main focus is backend development with Java / Spring Boot and C# / ASP.NET Core.
 
-### Selected projects
-**Agent Reliability Lab for .NET and Python**  
-Experiments around AI coding agents, reproducible test cases, and multi-language project validation.
+Alongside university and work, I build my own products and backend systems. I’m especially interested in APIs, databases, system architecture, payments, AI-assisted development and turning prototypes into working products.
 
-**Family App**  
-A private-family productivity app prototype focused on planning, shared routines, and practical mobile UX.
+Two-time ICPC regional semifinal prize winner. Before focusing on backend, I spent a lot of time on algorithms and competitive programming.
 
-**Yuki: Your Anime Companion**  
-A Kotlin/Android companion app concept with structured content, clean screens, and a user-facing product flow.
+I actively use AI coding tools and agent systems in development — mainly to prototype faster, automate routine work and explore larger codebases.
 
-**Olympics and Courses**  
-Competitive programming and university coursework archive. Kept as a learning history, not as a polished product.
+Outside IT, I've been playing volleyball for about 12 years, dance bachata and read about investing, psychology, technology and business.
 
-### Current focus
-- Strengthening production-grade backend skills: architecture, testing, deployment, observability.
-- Improving English technical writing and documentation.
-- Building a compact portfolio of projects that are easy to run, review, and discuss internationally.
+### Currently interested in
 
+Backend engineering, product development, AI tooling and projects where I can work on a real system, ship things and grow quickly.
+
+### Contact
+
+[Telegram](https://t.me/stepanda1) · [Habr](https://habr.com/ru/users/stepanda1/)
