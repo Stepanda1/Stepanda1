@@ -27,9 +27,3 @@ Competitive programming and university coursework archive. Kept as a learning hi
 - Improving English technical writing and documentation.
 - Building a compact portfolio of projects that are easy to run, review, and discuss internationally.
 
-### Contact
-GitHub: https://github.com/Stepanda1
-VK: https://vk.ru/id410248956
-Tg: @stepanda1
-Email: stepanda3@yandex.ru
-
